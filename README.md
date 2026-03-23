@@ -69,10 +69,12 @@ This project was completed as part of the **Deloitte Australia Data Analytics Jo
 
 ```
 deloitte-data-analytics-simulation/
-├── DA 1.twb                                    # Tableau workbook
-├── Task 5 Equality Table Without Analysing.xlsx  # Raw equality data
-├── Task 5 Equality Table with Data Analysed.xlsx # Analysed output
-├── daikibo-telemetry-data.json.zip              # Supporting telemetry data
+├── dashboard/
+│   └── DA1.twb                              # Tableau workbook
+├── data/
+│   ├── Task5_Equality_Table_Raw.xlsx        # Raw equality data
+│   ├── Task5_Equality_Table_Analysed.xlsx   # Analysed output
+│   └── daikibo-telemetry-data.json.zip      # Supporting telemetry data
 └── README.md
 ```
 
