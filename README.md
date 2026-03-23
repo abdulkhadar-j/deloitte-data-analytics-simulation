@@ -1,71 +1,94 @@
 # Deloitte Australia Data Analytics Job Simulation
 
-## Project Overview
-Data Analytics project completed as part of the Deloitte Australia job simulation on Forage. This project demonstrates practical data analysis, visualization, and business insights generation skills using real-world data scenarios.
-
-## Project Scope
-This simulation involved analyzing workplace compensation and equality data, creating data-driven visualizations, and deriving actionable business conclusions. The project covers the entire analytics workflow from data exploration to recommendation.
-
-## Skills Demonstrated
-- **Data Analysis:** SQL, Python, Microsoft Excel
-- **Data Visualization:** Tableau dashboard creation and interpretation
-- **Data Classification:** Multi-tier categorization and scoring systems
-- **Business Intelligence:** Converting raw data into strategic insights
-- **Problem Solving:** Drawing conclusions from complex datasets
-
-## Project Components
-
-### 1. Data Analysis
-- **Equality Table Analysis** - Factory and Job Role compensation equity analysis
-- **Equality Score Classification:**
-  - **Fair:** ±10 score range (ideal equality)
-  - **Unfair:** <-10 AND >10 score range (concerning discrepancy)
-  - **Highly Discriminative:** <-20 AND >20 score range (critical issue)
-
-### 2. Tableau Dashboard
-- Interactive visualization of key metrics
-- Stakeholder-ready presentation format
-- Data insights for decision-making support
-
-### 3. Excel-Based Analysis
-- Data classification and categorization
-- Statistical summary and reporting
-- Business recommendations and conclusions
-
-## Files in Repository
-- `Task 5 Equality Table...xlsx` - Main analysis dataset with equality scores and classifications
-- `DA 1.twb` - Tableau workbook with interactive dashboards
-- `daikibo-telemetry-d...` - Supporting telemetry and operational data
-
-## Key Insights
-- Identified compensation equality gaps across different factories and job roles
-- Categorized equity issues into three severity levels for prioritized action
-- Created visual representations for management presentation
-- Developed actionable recommendations based on data patterns
-
-## Tools & Technologies Used
-- **Excel** - Data classification, analysis, and reporting
-- **Tableau** - Interactive dashboard development
-- **SQL** - Data querying and exploration
-- **Python** - Data manipulation and analysis
-
-## How to Use
-1. Review the Equality Table Excel files for detailed analysis
-2. Open DA 1.twb in Tableau to interact with the dashboard visualizations
-3. Examine the telemetry data for operational context
-
-## Completion Details
-- **Program:** Forage - Deloitte Australia
-- **Completion Date:** November 2025
-- **Duration:** Intensive virtual job simulation
-
-## Contact & Portfolio
-- **GitHub:** github.com/abdulkhadar-j
-- **LinkedIn:** linkedin.com/in/iabdulkhadarj
-- **Location:** Bangalore, India
-
-## Certification
-Certificated completion of Deloitte Australia Data Analytics Job Simulation through Forage.
+![Tool](https://img.shields.io/badge/Tool-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-Business%20Intelligence-blue?style=flat)
+![Program](https://img.shields.io/badge/Program-Forage%20%7C%20Deloitte-green?style=flat)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 
 ---
-**Skills Gained:** Data Analysis, Tableau, Excel, Business Intelligence, Problem-Solving, Data Visualization
+
+## Overview
+
+This project was completed as part of the **Deloitte Australia Data Analytics Job Simulation** on Forage (November 2025). It involves analyzing workplace compensation and equality data, building Tableau dashboards, and generating actionable business insights.
+
+---
+
+## Objectives
+
+- Analyze factory and job role compensation equity data
+- Classify equality scores into severity levels (Fair, Unfair, Highly Discriminative)
+- Build interactive Tableau dashboards for stakeholder presentation
+- Derive data-driven recommendations for management
+
+---
+
+## Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| Tableau | Interactive dashboard creation |
+| Excel | Data classification, analysis & reporting |
+| SQL | Data querying and exploration |
+
+---
+
+## Key Tasks
+
+### Task 1 — Equality Table Analysis
+- Analyzed compensation data across factories and job roles
+- Applied equality score classification:
+
+| Score Range | Classification |
+|-------------|----------------|
+| -10 to +10 | Fair |
+| < -10 or > +10 | Unfair |
+| < -20 or > +20 | Highly Discriminative |
+
+### Task 2 — Tableau Dashboard
+- Built interactive visualizations of key equality metrics
+- Dashboard designed for stakeholder-ready presentation
+- Enabled data-driven decision support for management
+
+### Task 3 — Excel-Based Reporting
+- Performed data classification and categorization
+- Created statistical summaries and business recommendations
+
+---
+
+## Key Insights
+
+- Identified compensation equality gaps across different factories and job roles
+- Categorized equity issues into three severity levels for prioritized action
+- Created visual dashboards for management review
+- Developed actionable recommendations based on data patterns
+
+---
+
+## Project Structure
+
+```
+deloitte-data-analytics-simulation/
+├── DA 1.twb                                    # Tableau workbook
+├── Task 5 Equality Table Without Analysing.xlsx  # Raw equality data
+├── Task 5 Equality Table with Data Analysed.xlsx # Analysed output
+├── daikibo-telemetry-data.json.zip              # Supporting telemetry data
+└── README.md
+```
+
+---
+
+## Completion Details
+
+- **Program:** Forage — Deloitte Australia Data Analytics Job Simulation
+- **Completed:** November 2025
+- **Certificate:** Issued by Forage upon completion
+- **Skills Gained:** Data Analysis, Tableau, Excel, Business Intelligence, Data Visualization
+
+---
+
+## Author
+
+**Abdul Khadar J**  
+Data Analyst | SQL | Power BI | Tableau | Python  
+[LinkedIn](https://linkedin.com/in/iabdulkhadarj) | [GitHub](https://github.com/abdulkhadar-j)
